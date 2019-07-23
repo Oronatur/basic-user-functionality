@@ -1,0 +1,17 @@
+{
+  "name": "Oronatur/basicUserFunctionality",
+  "description": "A very basic login and register script. Comes with password reset and email authentication.",
+  "keywords": ["user", "login", "register", "authentication"],
+  "authors":
+  [
+    {
+      "name": "Tommy T. Olsen",
+      "email": "oronatur@gmail.com",
+      "homepage": "",
+      "role": "developer"
+    }
+  ],
+  "require": {
+    "php": "^7.2"
+  }
+}
