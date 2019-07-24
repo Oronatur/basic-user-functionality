@@ -1,5 +1,5 @@
 {
-  "name": "Oronatur/basicUserFunctionality",
+  "name": "oronatur/basic-user-functionality",
   "description": "A very basic login and register script. Comes with password reset and email authentication.",
   "keywords": ["user", "login", "register", "authentication"],
   "authors":
