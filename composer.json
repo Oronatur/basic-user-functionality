@@ -1,6 +1,6 @@
 {
   "name": "oronatur/basic-user-functionality",
-  "description": "A very basic login and register script. Comes with password reset and email authentication.",
+  "description": "A very basic login and register script. Comes with password reset and email authentication. Intended for private use.",
   "keywords": ["user", "login", "register", "authentication"],
   "authors":
   [
