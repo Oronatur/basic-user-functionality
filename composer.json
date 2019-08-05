@@ -2,6 +2,7 @@
   "name": "oronatur/basic-user-functionality",
   "description": "A very basic login and register script. Comes with password reset and email authentication. Intended for private use.",
   "keywords": ["user", "login", "register", "authentication"],
+  "version": "1.0.0",
   "authors":
   [
     {
@@ -13,6 +14,5 @@
   ],
   "require": {
     "php": "^7.2",
-     "Oronatur/basic-user-functionality": "1.0.0"
   }
 }
